@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dannyfantom87-cell.github.io/AXF-Axiom-Wrestling-Federation/sitemap.xml

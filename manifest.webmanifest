@@ -1,0 +1,13 @@
+{
+  "name": "AXF — Axiom Wrestling Federation",
+  "short_name": "AXF",
+  "description": "The elite global wrestling promotion. Season 3. Where Power Becomes Legacy.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./images/og-image.jpg", "sizes": "1200x630", "type": "image/jpeg" }
+  ]
+}
